@@ -1,0 +1,16 @@
+.componentContainer {
+  display: flex;
+  justify-content: flex-start;
+  .title {
+    display: block;
+    width: 390px;
+    font-weight: bold;
+  }
+  .select {
+    height: 20px;
+    width: 110px;
+    text-align: center;
+    outline: none;
+  }
+}
+

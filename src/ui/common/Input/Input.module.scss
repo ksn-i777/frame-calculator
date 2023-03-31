@@ -1,0 +1,49 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.componentContainer {
+  display: flex;
+  justify-content: flex-start;
+  .title {
+    display: block;
+    width: 400px;
+    font-weight: bold;
+  }
+  .inputConfig {
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    .input {
+      max-width: 40px;
+      max-height: 20px;
+      text-align: center;
+      outline: none;
+    }
+    .inputButton {
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 20px;
+      height: 20px;
+    }
+    .hiddenInputButton {
+      width: 20px;
+      height: 20px;
+      opacity: 0;
+    }
+    .inputButton:hover {
+      font-weight: bold;
+    }
+  }
+  .info {
+    width: 350px;
+    margin-left: 20px;
+    color: crimson;
+  }
+}
+

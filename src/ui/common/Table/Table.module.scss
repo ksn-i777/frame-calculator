@@ -1,0 +1,38 @@
+.table {
+  border-collapse: collapse;
+  caption {
+    text-align: left;
+    font-weight: bold;
+  }
+  .th {
+    border: 1px solid black;
+    .icon {
+      width: 15px;
+      height: 15px;
+      transform: translateY(15%);
+      margin-left: 5px;
+      cursor: pointer;
+    }
+    width: 198px;
+  }
+  .th:first-child {
+    width: 400px;  
+  }
+  .th:nth-child(2) {
+    width: 150px;  
+  }
+  .th:nth-child(4) {
+    width: 100px;  
+  }
+  .td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  .td:first-child {
+    text-align: left;
+  }
+  .button {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+}
