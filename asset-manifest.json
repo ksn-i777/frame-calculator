@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frame-calculator/static/css/main.ce71bbb7.css",
+    "main.js": "/frame-calculator/static/js/main.316c0caf.js",
+    "static/js/787.404cd840.chunk.js": "/frame-calculator/static/js/787.404cd840.chunk.js",
+    "static/media/uparrow2_89326.svg": "/frame-calculator/static/media/uparrow2_89326.baef95dc4d14988ec67dd39f78207956.svg",
+    "index.html": "/frame-calculator/index.html",
+    "static/media/downarrow_121316.svg": "/frame-calculator/static/media/downarrow_121316.1a6f92cc90c42fb40829bd2c5add085b.svg",
+    "static/media/list_dashes_icon_174419.svg": "/frame-calculator/static/media/list_dashes_icon_174419.50374dd15910b825e66b7099054f4fcd.svg",
+    "main.ce71bbb7.css.map": "/frame-calculator/static/css/main.ce71bbb7.css.map",
+    "main.316c0caf.js.map": "/frame-calculator/static/js/main.316c0caf.js.map",
+    "787.404cd840.chunk.js.map": "/frame-calculator/static/js/787.404cd840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce71bbb7.css",
+    "static/js/main.316c0caf.js"
+  ]
+}
